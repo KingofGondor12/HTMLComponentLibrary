@@ -1,0 +1,17 @@
+.c-heading__sub-heading {
+	font-size: 0.7em;
+	color: #999;
+	margin-lift: 0.6em;
+}
+.button--huge {
+	font-size: 1.3em;
+	min-width: 300px;
+}
+.button--positive {
+	background-color: green;
+	color: #FFF;
+}
+.button--negative {
+	background-color: red;
+	color: #FFF;
+}
